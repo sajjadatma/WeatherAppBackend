@@ -1,8 +1,8 @@
 const config = {
-    "host" : '127.0.0.1',
-    "username": 'root',
-    "password": '',
-    "database": 'weather'
+    "host" : 'den1.mysql1.gear.host',
+    "username": 'weather1',
+    "password": 'It6E?i8td1!X',
+    "database": 'weather1'
 };
 const mysql = require('mysql');
 
